@@ -4,3 +4,9 @@
 
 ### Este projeto está em fase de desenvolvimento. 
 ### Para acompanhar as atualizações mais recentes, acesse a branch: 📂 **[`cabecalho-footer-varsCSS`](https://github.com/JosianeCMagalhaes/Portfolio/tree/cabecalho-footer-varsCSS)**
+
+Enquanto isso, confira outro projeto desenvolvido recentemente:  
+
+- **[Streaming de Música 🎵](https://github.com/JosianeCMagalhaes/streaming-de-musica)** 
+
+Fique à vontade para explorar e contribuir! 🚀
